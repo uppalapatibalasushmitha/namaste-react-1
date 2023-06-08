@@ -11,7 +11,7 @@ const Header = () => {
         <img className="logo" src={LOGO_URL} />
       </div>
       <div className="nav-items">
-        <ul>
+        <ul> 
           <li>Home</li>
           <li>About Us</li>
           <li>Contact Us</li>
